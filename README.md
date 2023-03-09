@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Jared.
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Jared+Hem!" alt="Typing SVG" /></a></div>
+
 ## Full-Stack Engineer and Professional Dog-Sitter.
 
 * 🌎 I'm Based in San Francisco, CA.
