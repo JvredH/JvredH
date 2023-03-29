@@ -35,7 +35,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JvredH&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JvredH&hide=mako,shell&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JvredH&hide=mako,shell,php&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JvredH/JvredH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
